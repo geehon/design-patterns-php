@@ -12,3 +12,5 @@
 [第四章 结合使用设计模式和UML](/Section4/README.md)
 
 [第五章 工厂方法设计模式](/Section5/README.md)
+
+[第六章 原型设计模式](/Section6/README.md)
